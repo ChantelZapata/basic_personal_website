@@ -7,6 +7,7 @@ body {
 	border-width: 3px;
 	border-color: #FFFFFF;
 	padding: 90px;
+	text-align: center;
 }
 h1 {
 	color: #FFFFFF;
@@ -22,4 +23,22 @@ p {
 }
 li {
 	color: #FFFFFF;
+	list-style-type: none;
+}
+a {
+	color: #1fd6db;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #d84aea;
+}
+a:active {
+	text-decoration: underline;
+	color: #835e87;
 }
