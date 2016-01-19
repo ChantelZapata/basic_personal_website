@@ -11,7 +11,8 @@ body {
 h1 {
 	color: #FFFFFF;
 	font-weight: bold;
-	font-size: 26px;
+	font-size: 28px;
+	padding: 16px;
 }
 h2 {
 	color: #FFFFFF;
@@ -22,6 +23,7 @@ h3 {
 	color: #FFFFFF;
 	font-weight: bold;
 	font-size: 17px;
+	padding: 4px;
 }
 p {
 	color: #b4b4b4;
