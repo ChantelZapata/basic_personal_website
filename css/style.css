@@ -25,6 +25,7 @@ h3 {
 	font-weight: 400;
 	font-size: 17px;
 	padding-top: 16px;
+	text-decoration: underline;
 }
 p {
 	color: #b4b4b4;
@@ -32,6 +33,13 @@ p {
 	font-size: 14px;
 	line-height: 24px;
 	fomt-weight: 300;
+}
+.intro-text {
+	color: #b4b4b4;
+	font-family: 'Lato', Helvetica, san-serif;
+	font-size: 18px;
+	line-height: 24px;
+	fomt-weight: 400;
 }
 ol {
 	padding: 0;
@@ -64,7 +72,24 @@ a:active {
 	color: #835e87;
 }
 img {
+	border: solid 6px;
+	border-radius: 280px;
+	color: #1fd6db;
+}
+.my-photo {
 	border: solid 3px;
 	border-radius: 280px;
 	color: #FFFFFF;
+}
+div {
+	padding: 30px;
+	margin: 30px;
+	background: rgba(0,0,0,.4);
+}
+hr {
+	margin: 30px;
+	border-color: #7c7875;
+}
+nav{
+	font-size: 18px;
 }
